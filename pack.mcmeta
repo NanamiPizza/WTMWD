@@ -1,0 +1,21 @@
+{
+  "pack": {
+    "description": [{"text":"W","color":"dark_red"},{"text":"h","color":"#be0029"},{"text":"i","color":"#be0052"},{"text":"t","color":"#be007b"},{"text":"e ","color":"#be00a4"},
+{"text":"T","color":"#c305c3"},{"text":"u","color":"#d112d1"},{"text":"l","color":"#de20de"},{"text":"i","color":"#ec2dec"},{"text":"p","color":"#fa3bfa"},{"text":"s ","color":"#df5dfe"},
+{"text":"M","color":"#b587fe"},{"text":"a","color":"#8cb0fe"},{"text":"k","color":"#63d9fe"},{"text":"e","color":"#3ff8fe"},{"text":"s ","color":"#3fcffe"},
+{"text":"W","color":"#3fa6fe"},{"text":"h","color":"#3f7cfe"},{"text":"i","color":"#3f53fe"},{"text":"t","color":"#3838f7"},{"text":"e ","color":"#2a2ae9"},
+{"text":"D","color":"#1c1cdb"},{"text":"y","color":"#0f0fcd"},{"text":"e ","color":"#0101bf"},
+{"text":"- ","color":"#0b30a5"},
+{"text":"B","color":"#19668a"},{"text":"y ","color":"#279d6f"},
+{"text":"N","color":"#34d453"},{"text":"a","color":"#49fe3b"},{"text":"n","color":"#72fe2d"},{"text":"a","color":"#9cfe20"},{"text":"m","color":"#c5fe12"},{"text":"i","color":"#effe05"},
+{"text":"P","color":"#f9f207"},{"text":"i","color":"#f1de12"},{"text":"z","color":"#e9ca1d"},{"text":"z","color":"#e1b628"},{"text":"a","color":"gold"}],
+    "pack_format": 15,
+    "supported_formats": [15,999]
+  },
+  "filter": {
+	  "block": [{
+		  "namespace": "minecraft",
+		  "path": "recipe/light_gray_dye_from_white_tulip"
+		}]
+	}
+}
