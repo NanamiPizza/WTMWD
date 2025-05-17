@@ -9,8 +9,8 @@
       {"text":"B","color":"#3f53fe"},{"text":"y ","color":"#3838f7"},
       {"text":"A","color":"#2a2ae9"}, {"text":"n","color":"#1c1cdb"},{"text":"y","color":"#0f0fcd"},{"text":"a","color":"#0101bf"},
       {"text":"P","color":"#0b30a5"},{"text":"i","color":"#19668a"},{"text":"z","color":"#279d6f"}, {"text":"z","color":"#34d453"},{"text":"a","color":"#49fe3b"}],
-    "pack_format": 15,
-    "supported_formats": [15,999]
+    "pack_format": 48,
+    "supported_formats": [48,57]
   },
   "filter": {
     "block": [{
